@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# binary files
+*.bin
+example[1-3]
